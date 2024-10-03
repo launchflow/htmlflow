@@ -1,0 +1,9 @@
+fastapi[standard]
+launchflow[aws]==0.4.14.dev2
+pydantic
+openai
+anthropic
+mangum
+pytz
+redis
+python-dotenv
